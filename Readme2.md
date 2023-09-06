@@ -1,5 +1,5 @@
-# **Работа с чужими репозиториями**
-В своем аккаунте на GitHub создать копию репозитория из другого аккаунта с помощью кнопки **Fork**
+# **Working with someone's repository**
+In your own account on GitHub create a copy of repo from another account with button **Fork**
 ```
  _               _   
 | |_   ___  ___ | |_ 
