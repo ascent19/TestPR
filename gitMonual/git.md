@@ -126,9 +126,9 @@ git config --list просмотр информации
 
    6.1 Переходим на созданную ветку в удаленном репо
 
-   6.2 Создаем: ![foto](gitPull4.jpg)
+   6.2 Создаем: ![foto](gitPull4.jpg) или ![foto](gitPull4-1.jpg) + ![foto](gitPull4-2.jpg) + ![foto](gitPull4-3.jpg)
 
-   6.3 Добавляем описание и отправляем: ![foto](gitPull5.jpg)
+   6.3 Добавляем описание и отправляем
 
 ---
 
